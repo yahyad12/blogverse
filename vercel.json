@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "vercel-build": "next build",
+    "postinstall": "prisma generate"
+  }
+}
